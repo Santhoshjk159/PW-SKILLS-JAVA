@@ -1,0 +1,21 @@
+### Generics Answers:
+
+1. Generics allow types (classes and interfaces) to be parameters when defining classes, interfaces, and methods.
+2. They provide stronger type checks at compile time, eliminate type casting, and enable generic algorithms.
+3. A class with a type parameter, allowing it to operate on objects of various types.
+4. A placeholder for a type that is specified when the generic type is instantiated.
+5. A method that can operate on objects of various types, specified using type parameters.
+6. ArrayList is a raw type; ArrayList<T> is a parameterized type that provides type safety.
+
+### IO Answers:
+
+1. They are used to read and write data to and from a source, respectively.
+2. Common methods include  write(int b) ,  write(byte[] b) , and  flush() .
+3. The process of converting an object into a byte stream for storage or transmission.
+4. A marker interface indicating that a class can be serialized.
+5. The process of converting a byte stream back into a copy of the object.
+6. By implementing the  Serializable  interface and using  ObjectOutputStream .
+7. By using  ObjectInputStream  to read the byte stream and reconstruct the object.
+8. Use the  transient  keyword to exclude certain fields from serialization.
+9. Classes include  File ,  FileInputStream ,  FileOutputStream ,  FileReader , and  FileWriter .
+10.  Externalizable  allows control over the serialization process;  Serializable  uses the default serialization mechanism.

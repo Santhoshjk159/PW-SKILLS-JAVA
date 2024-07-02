@@ -1,0 +1,18 @@
+1.Statically typed: if the memory of the variable is given during the compilation time itself then such types of
+programming languages are called as “Statically typed”.
+Eg: C,C++,Java
+Dynamically typed: If the memory of the variable is given during the execution time itself then such types of
+programming languages are called as “dynamically typed”.
+Eg: Python,PHP,JavaScript
+
+
+2.A variable is the title of a reserved region allocated in memory. In other words, it may be referred to as the
+name of a memory location.
+
+3.using (=) operator.
+
+4.byte,int,float
+
+5.Identifiers in Java are symbolic names used for identification.
+
+6.Assignment,artithmetic,relational,binary,unary,boolean.

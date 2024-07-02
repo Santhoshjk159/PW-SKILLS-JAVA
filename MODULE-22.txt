@@ -1,0 +1,15 @@
+
+
+1. Multithreading refers to the ability of a CPU or a single core in a multi-core processor to provide multiple threads of execution concurrently, allowing programs to perform multiple tasks simultaneously. It's important for improving the efficiency of programs by utilizing available resources effectively.
+
+2. The benefits of using multithreading include improved responsiveness in user interfaces, better resource utilization, efficient handling of multiple tasks, and enhanced performance in multitasking environments.
+
+3. A thread in Java represents a single path of execution in a program. It allows concurrent execution of different parts of a program.
+
+4. There are two ways to implement threads in Java: by extending the Thread class or by implementing the Runnable interface.
+
+5. The main difference between threads and processes is that threads share the same memory space, while processes have their own memory space.
+
+6. Daemon threads in Java are threads that run in the background, providing services to other threads. They can be created by calling the setDaemon(true) method before starting the thread.
+
+7. The wait() method causes a thread to wait until another thread notifies it, while the sleep() method causes the current thread to suspend execution for a specified period of time.

@@ -1,0 +1,16 @@
+1.Git is a free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+2.a version control system (VCS) keeps track of all the change that are made to a file or group of data.
+
+3.GitHub uses Git to offer Internet hosting for version control and software development.
+
+4.Github
+  Gitlab
+
+5.Local version,Centrilised version
+
+6.Easy collaboration,Data replication.
+
+7.It describes the location where all Git files are kept.
+
+8.It is used to initialise an empty repository to a directory in Git.

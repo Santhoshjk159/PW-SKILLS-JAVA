@@ -1,0 +1,19 @@
+1.Integer arrays: The default value is 0.
+Float arrays: The default value is 0.0.
+Byte arrays: The default value is 0.
+Boolean arrays: The default value is false.
+String arrays: The default value is null.
+
+
+2.No, you can not pass the negative number as Array size.
+
+3.Array is an object in java. So, Array is stored in heap memory in JVM.
+
+4.fixed size, a larger memory is used.
+
+5.Array without an reference.
+
+6.using loops like for loop.
+
+7.length-used in arrays
+  length()-string

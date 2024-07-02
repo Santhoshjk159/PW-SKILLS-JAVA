@@ -1,0 +1,25 @@
+1.
+public class DT {
+    public static void main(String[] args) {
+        java.util.Date dt=new java.util.Date();
+        System.out.println(dt);
+    }    
+}
+
+
+
+2.
+import java.time.LocalDate;
+public class DT {
+    public static void main(String[] args) {
+
+        LocalDate date= LocalDate.now();
+        System.out.println(date.getMonthValue()+"/"+date.getDayOfMonth()+"/"+date.getYear());
+    }  
+
+
+3.Collections in Java are used to store and manipulate groups of objects, like lists and maps, while streams are used to process collections in a functional style, enabling operations like filtering, mapping, and reducing on the elements.
+
+4.Enums in Java are special data types used to define a fixed set of constants. They are more robust than using integer constants because they provide type safety and can have behaviors associated with them.
+
+5.Java provides many built-in functions, like   System.out.println()   for printing to the console,   Math.max()   for finding the maximum of two numbers, and   String.toLowerCase()   for converting a string to lowercase.

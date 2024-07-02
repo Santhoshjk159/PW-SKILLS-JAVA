@@ -1,0 +1,17 @@
+1.The process of binding data and corresponding methods (behaviour) together into a single unit 
+is called encapsulation in Java.
+
+2.Data hiding, Abstraction,Access Control and Data integrity.
+
+3.Setters and Getters  are used in Java to access and modify the private data members of a class.
+
+4.this keyword refers to the current object or instance of a class. It is used to differentiate between 
+instance variables and parameters or local variables that have the same name, and to pass the current object 
+as a parameter to other methods or constructors.
+
+5.(i)The encapsulated code is more flexible and easy to change with new requirements.
+  (ii)It prevents the other classes from accessing the private fields.
+  (iii)Encapsulation allows modifying implemented code without breaking other code who have implemented the code.
+
+6.Encapsulation is achieved in Java by declaring the instance variables of a class as private
+and providing public getter and setter methods to access and modify the values of these variables.

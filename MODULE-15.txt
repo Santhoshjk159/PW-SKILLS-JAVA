@@ -1,0 +1,12 @@
+1.String is a sequence of characters. But in Java, string is an object that represents a sequence of characters.
+
+2.Mututable and Immutuable Strings.
+
+3.String s1 = new String("abc"); //Creating string object using new operator
+String s2 = "abc"; //Creating string object using string literal
+
+4.String Constant Pool is the heap memorÄ space dedicated to toring string objects created with string literals.
+
+5.Immutuable means the value cannot be changed once executed whereas mutuable means changeable.
+
+6.Inside the heap memory

@@ -1,0 +1,17 @@
+1.There are several ways by which we can create objects of a class in java as we all know a class provides the blueprint for objects, you create an object from a class. Using new() method.
+
+2.It is used to create an instance of an object.
+
+3.static,local,instance
+
+4.Local Variables
+Scope and Lifetime: Declared within a method, constructor, or block. They are created and destroyed within the scope of the method, constructor, or block, and their values are not preserved between calls.
+Default Values: Must be explicitly initialized before use, as they do not have default values.
+
+Instance Variables
+Scope and Lifetime: Declared within a class but outside any method, constructor, or block. They are created when an instance of the class is created and destroyed when the instance is destroyed, with values preserved as long as the object exists.
+Default Values: Have default values assigned by the Java runtime (e.g., 0 for numeric types, false for booleans, null for object references).
+
+5.instance-heap and local-stack
+
+6.It is a feature that allows a class to have multiple methods with the same name but different parameters.

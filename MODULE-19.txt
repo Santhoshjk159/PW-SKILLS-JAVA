@@ -1,0 +1,19 @@
+1. The Collection framework in Java provides a unified architecture for storing and manipulating collections, allowing operations like searching, sorting, insertion, and deletion.
+
+2. ArrayList uses a dynamic array to store elements, while LinkedList uses a doubly linked list, making ArrayList better for indexed access and LinkedList better for insertions and deletions.
+
+3. Iterator allows traversing through a collection in a single direction, whereas ListIterator allows bidirectional traversal and element modification.
+
+4. Iterator is used for traversing elements in a collection, while Enumeration is an older interface used mainly for legacy classes like Vector.
+
+5. A List allows duplicate elements and maintains insertion order, while a Set does not allow duplicates and does not guarantee insertion order.
+
+6. HashSet stores elements in a hash table, providing constant time performance for basic operations, while TreeSet stores elements in a sorted tree structure, providing log(n) time for operations.
+
+7. Arrays are fixed in size and can store elements of a single data type, while ArrayLists are dynamic and can grow or shrink in size, storing objects.
+
+8. A Map in Java is an object that maps keys to values, with no duplicate keys allowed and each key mapping to at most one value.
+
+9. Commonly used Map implementations in Java include HashMap, TreeMap, LinkedHashMap, and Hashtable.
+
+10. HashMap provides constant time performance for basic operations and does not maintain any order, while TreeMap maintains a sorted order of keys and provides log(n) time performance.

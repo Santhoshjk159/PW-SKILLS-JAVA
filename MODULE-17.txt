@@ -1,0 +1,19 @@
+1. Inheritance in Java is a mechanism where one class (subclass) inherits the fields and methods of another class (superclass), promoting code reusability and establishing a hierarchical relationship.
+
+2. A superclass is the class from which properties and methods are inherited, while a subclass is the class that inherits properties and methods from the superclass.
+
+3. Inheritance is implemented in Java using the `extends` keyword.
+
+4. Polymorphism is the ability of an object to take many forms, allowing one interface to be used for a general class of actions. It includes compile-time polymorphism (method overloading) and runtime polymorphism (method overriding).
+
+5. Method overloading allows multiple methods with the same name but different parameters within the same class. Method overriding allows a subclass to provide a specific implementation for a method already defined in its superclass.
+
+6. Abstraction is the concept of hiding the complex implementation details and showing only the necessary features of an object. Example: An abstract class `Vehicle` with an abstract method `move()`.
+
+7. An abstract method is a method without an implementation, meant to be overridden in subclasses. A final method is a method that cannot be overridden by subclasses.
+
+8. A final class in Java is a class that cannot be subclassed. It is declared using the `final` keyword.
+
+9. Abstraction focuses on hiding the implementation details and showing only the essential features. Encapsulation is the technique of wrapping data (variables) and code (methods) together as a single unit, typically using access modifiers to protect data.
+
+10. Compile-time polymorphism (method overloading) is resolved during compilation. Runtime polymorphism (method overriding) is resolved during runtime. Example: Method overloading occurs within the same class, while method overriding occurs between superclass and subclass.

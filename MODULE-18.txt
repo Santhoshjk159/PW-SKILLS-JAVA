@@ -1,0 +1,24 @@
+### Assignment 1: Error and Exception Handling in Java
+
+1. Errors in Java include `OutOfMemoryError`, `StackOverflowError`, and `VirtualMachineError`.
+2. An exception is an event that disrupts the normal flow of program execution.
+3. Handle exceptions using `try`, `catch`, and `finally` blocks.
+4. Exception handling prevents program crashes and manages unexpected events smoothly.
+5. Exceptions are conditions applications can handle, while errors are serious issues typically not handled.
+6. Checked exceptions (e.g., `IOException`, `SQLException`) and unchecked exceptions (e.g., `NullPointerException`, `ArrayIndexOutOfBoundsException`).
+7. No, `try` must be accompanied by `catch` or `finally`.
+
+### Assignment 2: Lambda Expressions in Java 8
+
+1. Lambda expressions in Java 8 provide a clear and concise way to represent one method interface using an expression.
+2. Yes, you can pass lambda expressions to a method when the method parameter is a functional interface.
+3. A functional interface is an interface with only one abstract method, e.g., `Runnable` or `Callable`.
+4. Lambda expressions make code more concise and readable and are used for writing anonymous methods.
+5. No, a lambda expression can have zero or more parameters.
+
+### Assignment 3: Interfaces in Java
+
+1. An interface in Java is a reference type that can contain only constants, method signatures, default methods, static methods, and nested types.
+2. Methods in an interface can use `public`, `abstract`, `default`, `static`, and `private` modifiers.
+3. Interfaces provide a way to achieve abstraction and multiple inheritance in Java.
+4. An abstract class can have both abstract and concrete methods, while an interface can only have abstract methods (until Java 8, where it can have default and static methods).
