@@ -5,4 +5,4 @@
 5. Use    git reset <file>    to remove a file from the staging area.
 6. Use    git commit -m "your commit message"    to make a commit.
 7. Use    git push origin <branch-name>    to send your changes to a remote repository.
-8.    git clone    creates a copy of a repository, while    git pull    updates an existing local repository with changes from a remote repository.
+8. git clone    creates a copy of a repository, while    git pull    updates an existing local repository with changes from a remote repository.
