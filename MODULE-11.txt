@@ -1,0 +1,8 @@
+1. Run    git --version    to check if Git is installed on your system.
+2. Run    git init    to initialize a new Git repository.
+3. Use    git config --global user.name "Your Name"    and    git config --global user.email "youremail@example.com"   .
+4. Use    git add <file>    to add a file to the staging area.
+5. Use    git reset <file>    to remove a file from the staging area.
+6. Use    git commit -m "your commit message"    to make a commit.
+7. Use    git push origin <branch-name>    to send your changes to a remote repository.
+8.    git clone    creates a copy of a repository, while    git pull    updates an existing local repository with changes from a remote repository.
